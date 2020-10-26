@@ -1,1 +1,2 @@
 # exercise
+print("Hello World")
